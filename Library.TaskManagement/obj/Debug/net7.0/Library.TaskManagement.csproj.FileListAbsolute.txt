@@ -1,0 +1,12 @@
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/bin/Debug/net7.0/Library.TaskManagement.deps.json
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/bin/Debug/net7.0/Library.TaskManagement.dll
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/bin/Debug/net7.0/Library.TaskManagement.pdb
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.csproj.AssemblyReference.cache
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.AssemblyInfoInputs.cache
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.AssemblyInfo.cs
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.csproj.CoreCompileInputs.cache
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.dll
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/refint/Library.TaskManagement.dll
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/Library.TaskManagement.pdb
+/Volumes/Gumby/myprojects/TaskManagement2023/Library.TaskManagement/obj/Debug/net7.0/ref/Library.TaskManagement.dll
