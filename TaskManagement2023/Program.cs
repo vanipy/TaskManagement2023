@@ -1,9 +1,10 @@
 ﻿using System;
+using Microsoft.Extensions.Hosting;
 using Library.TaskManagement.Models;
 using Library.TaskManagement.Services;
+using TaskManagement2023;
 
-
-namespace LibraryTaskManagement // Note: actual namespace depends on the project name.
+namespace LibraryTaskManagement 
 {
     class Program
     {
@@ -12,7 +13,8 @@ namespace LibraryTaskManagement // Note: actual namespace depends on the project
             //set up a list of todo items
             var toDoService = new ToDoService();
             //CRUD = CREATE, READ, UPDATE, DELETE
-            Console.WriteLine("Welcome to the Task Management App for 2023!");
+            // Console.WriteLine("Welcome to the Task Management App for 2023!");
+            CreateHostBuilder(args).Build().Run();
 
             while (true)
             {
@@ -120,6 +122,13 @@ namespace LibraryTaskManagement // Note: actual namespace depends on the project
             }
 
         }
+        public static IHostBuilder CreateHostBuilder(string[] args)=>
+        
+            Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
+        
 
     }
 
@@ -127,4 +136,6 @@ namespace LibraryTaskManagement // Note: actual namespace depends on the project
     {
         Create, Read, Update, Delete, Exit
     }
+
+    
 }

@@ -16,3 +16,12 @@
 /Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/ref/TaskManagement2023.dll
 /Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/bin/Debug/net7.0/Library.TaskManagement.dll
 /Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/bin/Debug/net7.0/Library.TaskManagement.pdb
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/TaskManagement2023.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets/msbuild.TaskManagement2023.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets/msbuild.build.TaskManagement2023.props
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TaskManagement2023.props
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TaskManagement2023.props
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Gumby/myprojects/TaskManagement2023/TaskManagement2023/obj/Debug/net7.0/scopedcss/bundle/TaskManagement2023.styles.css
